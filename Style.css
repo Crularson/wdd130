@@ -1,0 +1,18 @@
+nav{
+    background-color: rgba(10, 140, 21, 0.351);
+}
+main{
+    background-color: antiquewhite;
+}
+
+p{
+    font-size: 30px;
+    color: forestgreen
+}
+h1{
+    color: red;
+}
+footer p{
+    font-size: 25px;
+    color: black;
+}
