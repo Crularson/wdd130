@@ -1,18 +1,18 @@
 nav{
-    background-color: rgba(10, 140, 21, 0.351);
+    background-color: #C46D5E;
 }
-main{
-    background-color: antiquewhite;
+body{
+    background-color: #153044;
 }
 
 p{
     font-size: 30px;
-    color: forestgreen
+    color: #CACCC2
 }
 h1{
-    color: red;
+    color: #CACCC2;
 }
 footer p{
     font-size: 25px;
-    color: black;
+    color: #CACCC2;
 }
