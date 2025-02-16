@@ -11,6 +11,9 @@ body{
 h2{
     margin: 0;
 }
+h1, h2, h4{
+    font-family: "Rubik Dirt", Times, serif;
+}
 header{
     background-color: #0D7E8E;
 }
