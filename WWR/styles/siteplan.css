@@ -11,7 +11,7 @@ Fonts are separated by a | */
   --accent2-color: #F1F3F1;
 
   /* change the values below to your chosen font(s) */
-  --heading-font: "EB Garamond";
+  --heading-font: "EB Garamond", Garamond, Serif;
   --paragraph-font: Helvetica, Verdana, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
