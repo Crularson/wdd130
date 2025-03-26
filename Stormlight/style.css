@@ -76,6 +76,7 @@ nav {
 nav a {
     padding: 36.25px;
     font-size: 1.5em;
+    font-family: var(--heading-font);
 
 }
 
@@ -101,7 +102,7 @@ img {
 #title-div {
     position: fixed;
     width: 100vw;
-    height: 100vw;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -179,6 +180,9 @@ footer p {
     max-width: 350px;
     align-content: center;
     justify-self: center;
+}
+footer a{
+    font-family: var(--paragraph-font);
 }
 
 footer p a {
