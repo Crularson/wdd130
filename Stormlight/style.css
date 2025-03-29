@@ -164,6 +164,7 @@ img {
 }
 #magic-main{
     margin: 0 20%;
+    padding-bottom: 5%;
 }
 .placard{
     margin: 0 auto;
@@ -171,6 +172,8 @@ img {
 }
 .magic-p{
     text-indent: 5%;
+    padding-top: 2%;
+    padding-bottom: 6%;
 }
 
 footer {
