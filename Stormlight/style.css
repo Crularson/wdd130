@@ -47,8 +47,7 @@
     z-index: 1000;
 }
 
-h1,
-h2 {
+h1, h2, h3 {
     font-family: var(--heading-font);
 }
 
@@ -84,7 +83,7 @@ nav a:hover {
     background-color: var(--nav-hover-background-color);
     color: var(--nav-hover-link-color);
 }
-
+/* Home page */
 img {
     max-width: 100%;
 }
@@ -147,12 +146,41 @@ img {
     object-fit: cover;
 }
 
+/* Magic page */
+.here-link{
+    background-color: var(--accent1-color);
+    font-family: var(--heading-font);
+    font-weight: bold;
+    padding: 0px 4px;
+    border-radius: 5px;
+}
+#magic-h1{
+    text-align: center;
+    padding: 45px;
+}
+#magic-h3{
+    font-size: 1.35em;
+    padding-bottom: 30px;
+}
+#magic-main{
+    margin: 0 20%;
+}
+.placard{
+    margin: 0 auto;
+    display: block;
+}
+.magic-p{
+    text-indent: 5%;
+}
 
 footer {
     background-color: var(--nav-background-color);
     display: grid;
     grid-template-columns: 100px 80px 1fr;
-    z-index: 1000;
+   
+}
+.footer-home{
+     z-index: 1000;
     width: 100%;
     position: absolute;
     top: 318vh;
