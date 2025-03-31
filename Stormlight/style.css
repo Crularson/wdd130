@@ -157,10 +157,12 @@ img {
 #magic-h1{
     text-align: center;
     padding: 45px;
+    color: var(--paragraph-color-on-white);
 }
 #magic-h3{
     font-size: 1.35em;
     padding-bottom: 30px;
+    color: var(--paragraph-color-on-white);
 }
 #magic-main{
     margin: 0 20%;
@@ -176,6 +178,7 @@ img {
     padding-bottom: 6%;
     line-height: 1.3em;
     font-size: 1.2em;
+    color: var(--paragraph-color-on-white);
 }
 
 footer {
